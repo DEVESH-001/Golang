@@ -15,3 +15,6 @@
 5. **Static Typing & Complilation**: Go's static typing helps catch errors at compile time, improving code reliability.
 
 `Go does not have ternary operator ( ? : ) like  JavaScript , we have to use if-else statements`
+
+- when to use arrays:
+  - Use arrays when you know the exact number of elements in advance and that number will not change. Arrays have a fixed size, so they are suitable for scenarios where the data set is constant and predictable.
